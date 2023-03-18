@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 👨‍💻 I'm Tejo, a web developer with a passion for solving real-world problems through technology.
 
-🔍 My focus is on improving my development skills in Django and MERN stack, while pursuing a degree in Computer Science at SVNIT.
+🔍 My focus is on improving my skills in Django and MERN stack, while pursuing a degree in Computer Science at SVNIT.
 
 🚀 In my free time, I like to work on personal projects and experiment with new technologies. 
  
