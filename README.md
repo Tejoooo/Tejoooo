@@ -26,4 +26,8 @@ Here are some ideas to get you started:
 📩 If you'd like to get in touch, feel free to email me at tejokaushal001@gmail.com.
 
 🧑‍💼 You can also check out my LinkedIn profile under the name [Tejo Kaushal](https://www.linkedin.com/in/tejo-kaushal-4a32b5256/).
+
+
+
+
 ![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=Tejoooo&show_icons=true&theme=radical)
