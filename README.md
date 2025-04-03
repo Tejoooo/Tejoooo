@@ -30,29 +30,31 @@ Here are some ideas to get you started:
 
 ## Skills
 
-[![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white&labelColor=blue)]()  
-[![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=blue)]()  
-[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=blue)]()  
-[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow)]()  
-[![ReactJS](https://img.shields.io/badge/ReactJS-yellow?style=for-the-badge&logo=react&logoColor=white&labelColor=yellow)]()  
-[![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=red)]()  
-[![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white&labelColor=red)]()  
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=blue)]()  
-[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue)]()  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=blue)]()  
-[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=green)]()  
-[![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white&labelColor=green)]()  
-[![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=blue)]()  
-[![Flask](https://img.shields.io/badge/Flask-green?style=for-the-badge&logo=flask&logoColor=white&labelColor=green)]()  
-[![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=teal)]()  
-[![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=rest&logoColor=white&labelColor=black)]()  
-[![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white&labelColor=orange)]()  
-[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=black)]()  
-[![Shell Scripting](https://img.shields.io/badge/Shell%20Script-gray?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=gray)]()  
-[![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white&labelColor=black)]()  
-[![LangChain](https://img.shields.io/badge/LangChain-purple?style=for-the-badge&logo=langchain&logoColor=white&labelColor=purple)]()  
-[![LangGraph](https://img.shields.io/badge/LangGraph-purple?style=for-the-badge&logo=langgraph&logoColor=white&labelColor=purple)]()  
-[![Ollama](https://img.shields.io/badge/Ollama-lightgreen?style=for-the-badge&logo=ollama&logoColor=white&labelColor=lightgreen)]()  
+<p align="center">
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white&labelColor=blue" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=blue" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=blue" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow" />
+  <img src="https://img.shields.io/badge/ReactJS-yellow?style=for-the-badge&logo=react&logoColor=white&labelColor=yellow" />
+  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white&labelColor=red" />
+  <img src="https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white&labelColor=red" />
+  <img src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=blue" />
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue" />
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=blue" />
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=green" />
+  <img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=white&labelColor=green" />
+  <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=blue" />
+  <img src="https://img.shields.io/badge/Flask-green?style=for-the-badge&logo=flask&logoColor=white&labelColor=green" />
+  <img src="https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=teal" />
+  <img src="https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=rest&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white&labelColor=orange" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/Shell%20Script-gray?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=gray" />
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white&labelColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-purple?style=for-the-badge&logo=langchain&logoColor=white&labelColor=purple" />
+  <img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge&logo=langgraph&logoColor=white&labelColor=purple" />
+  <img src="https://img.shields.io/badge/Ollama-lightgreen?style=for-the-badge&logo=ollama&logoColor=white&labelColor=lightgreen" />
+</p>
 
 ## Stats
 
