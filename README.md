@@ -54,6 +54,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/LangChain-purple?style=for-the-badge&logo=langchain&logoColor=white&labelColor=purple" />
   <img src="https://img.shields.io/badge/LangGraph-purple?style=for-the-badge&logo=langgraph&logoColor=white&labelColor=purple" />
   <img src="https://img.shields.io/badge/Ollama-lightgreen?style=for-the-badge&logo=ollama&logoColor=white&labelColor=lightgreen" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
 </p>
 
 ## Stats
