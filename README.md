@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-👨‍💻 I'm Tejo, a web developer with a passion for solving real-world problems through technology.                                                                             
+👨‍💻 I'm Tejo, a passionate human for solving real-world problems through technology.                                                                             
 🔍 My focus is on improving my skills in field of computer science.                                                                              
 🚀 In my free time, I like to work on personal projects and experiment with new technologies.                                                                   
 🤖 I'm a strong believer in the power of technology to make a positive impact on society and always seeking new challenges.                                     
