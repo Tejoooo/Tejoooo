@@ -16,20 +16,17 @@ Here are some ideas to get you started:
 
 -->
 👨‍💻 I'm Tejo, a web developer with a passion for solving real-world problems through technology.
-
-🔍 My focus is on improving my skills in Django and MERN stack, while pursuing a degree in Computer Science at SVNIT.
-
+🔍 My focus is on improving my skills in field of computer science.
 🚀 In my free time, I like to work on personal projects and experiment with new technologies. 
-
 🤖 I'm a strong believer in the power of technology to make a positive impact on society and always seeking new challenges.
-
 📩 If you'd like to get in touch, feel free to email me at tejokaushal001@gmail.com.
-
 🧑‍💼 You can also check out my LinkedIn profile under the name [Tejo Kaushal](https://www.linkedin.com/in/tejo-kaushal-4a32b5256/).
 
 
 
 ## 🛠️ Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,svelte,nodejs,express,flask,tailwind,react,mongodb,mysql,npm,vite,sqlite,postgres,firebase,git,github,graphql,vercel,cloudflare,vscode,vim,sublime,eclipse,postman,windows,linux,ubuntu,docker,discord,notion,markdown,powershell,selenium,sklearn,kafka)](https://skillicons.dev)
 
 ##### 🧑‍💻 Programming Languages
 <p align="left">
